@@ -71,8 +71,8 @@ local InterfaceManager = safeLoad("https://raw.githubusercontent.com/ActualMaste
 
 -- Ã°Å¸Â  Creation
 local Window = Library:CreateWindow {
-    Title = "SLHV2 Paid Script",
-    SubTitle = "By Yamss",
+    Title = "SLH CRACKEADO",
+    SubTitle = "By DTH",
     TabWidth = 125,
     Size = UDim2.fromOffset(830, 525),
     Resize = true,
